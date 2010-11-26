@@ -26,3 +26,8 @@ class Test(unittest.TestCase):
 		self.assertEquals(12, program.romanToNumerals("XII"))
 	def testIVequals4(self):
 		self.assertEquals(4, program.romanToNumerals("IV"))
+
+if __name__ == '__main__':
+    unittest.main()
+
+

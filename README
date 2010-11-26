@@ -1,0 +1,3 @@
+Para executar os testes no RomanNumerals:
+
+python -m tests
