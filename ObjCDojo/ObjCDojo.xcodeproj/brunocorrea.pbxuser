@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ObjCDojoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 366}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 322}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ObjCDojoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1066}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 603}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ObjCDojo */ = {
+		activeExec = 0;
+		executables = (
+			8B65FF8512E05A8400E0E064 /* ObjCDojo */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8B65FF8512E05A8400E0E064 /* ObjCDojo */;
+		activeTarget = 8B65FFA812E05B5400E0E064 /* LogicTests */;
+		addToTargets = (
+			8B65FFA812E05B5400E0E064 /* LogicTests */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 8B65FF9B12E05A8B00E0E064 /* Code sense */;
+		executables = (
+			8B65FF8512E05A8400E0E064 /* ObjCDojo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					351,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					746,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317324498;
+			PBXWorkspaceStateSaveDate = 317324498;
+		};
+		perUserProjectItems = {
+			8B3F6CCF12E9FDB100E47ACB /* PBXTextBookmark */ = 8B3F6CCF12E9FDB100E47ACB /* PBXTextBookmark */;
+			8B3F6D7712EA241200E47ACB /* PBXTextBookmark */ = 8B3F6D7712EA241200E47ACB /* PBXTextBookmark */;
+			8B3F6D7812EA241200E47ACB /* PBXTextBookmark */ = 8B3F6D7812EA241200E47ACB /* PBXTextBookmark */;
+			8B3F6D7912EA241200E47ACB /* PBXTextBookmark */ = 8B3F6D7912EA241200E47ACB /* PBXTextBookmark */;
+			8B3F6D7A12EA241200E47ACB /* PBXTextBookmark */ = 8B3F6D7A12EA241200E47ACB /* PBXTextBookmark */;
+			8B3F6D7B12EA241200E47ACB /* PBXTextBookmark */ = 8B3F6D7B12EA241200E47ACB /* PBXTextBookmark */;
+			8B65006312E071AA00E0E064 /* PBXTextBookmark */ = 8B65006312E071AA00E0E064 /* PBXTextBookmark */;
+			8B65006412E071AA00E0E064 /* PBXTextBookmark */ = 8B65006412E071AA00E0E064 /* PBXTextBookmark */;
+			8B65006512E071AA00E0E064 /* PBXTextBookmark */ = 8B65006512E071AA00E0E064 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8B65FF9A12E05A8B00E0E064 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8B3F6CCF12E9FDB100E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B3F6CD012E9FDB100E47ACB /* RunPlatformUnitTests.include */;
+		name = "RunPlatformUnitTests.include: 467";
+		rLen = 0;
+		rLoc = 16521;
+		rType = 0;
+		vrLen = 1142;
+		vrLoc = 15471;
+	};
+	8B3F6CD012E9FDB100E47ACB /* RunPlatformUnitTests.include */ = {
+		isa = PBXFileReference;
+		name = RunPlatformUnitTests.include;
+		path = /Developer/Tools/RunPlatformUnitTests.include;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1141, 6175}}";
+			sepNavSelRange = "{16022, 135}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	8B3F6CDD12E9FE2300E47ACB /* Program.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {741, 446}}";
+			sepNavSelRange = "{197, 0}";
+			sepNavVisRange = "{0, 261}";
+			sepNavWindowFrame = "{{0, 4}, {800, 574}}";
+		};
+	};
+	8B3F6CDE12E9FE2300E47ACB /* Program.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 936}}";
+			sepNavSelRange = "{949, 0}";
+			sepNavVisRange = "{0, 365}";
+			sepNavWindowFrame = "{{0, 4}, {800, 574}}";
+		};
+	};
+	8B3F6D7712EA241200E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B3F6CDD12E9FE2300E47ACB /* Program.h */;
+		name = "Program.h: 13";
+		rLen = 0;
+		rLoc = 197;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	8B3F6D7812EA241200E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B65FFB312E05BF600E0E064 /* LogicTests.h */;
+		name = "LogicTests.h: 20";
+		rLen = 11;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 0;
+	};
+	8B3F6D7912EA241200E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B65FFB412E05BF600E0E064 /* LogicTests.m */;
+		name = "LogicTests.m: 32";
+		rLen = 0;
+		rLoc = 910;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 223;
+	};
+	8B3F6D7A12EA241200E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B3F6CDE12E9FE2300E47ACB /* Program.m */;
+		name = "Program.m: 50";
+		rLen = 0;
+		rLoc = 896;
+		rType = 0;
+		vrLen = 205;
+		vrLoc = 861;
+	};
+	8B3F6D7B12EA241200E47ACB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B3F6CDE12E9FE2300E47ACB /* Program.m */;
+		name = "Program.m: 55";
+		rLen = 0;
+		rLoc = 949;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	8B65003912E065EE00E0E064 /* SenTestCase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SenTestCase.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h;
+		sourceTree = "<absolute>";
+	};
+	8B65006312E071AA00E0E064 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B65003912E065EE00E0E064 /* SenTestCase.h */;
+		name = "SenTestCase.h: 51";
+		rLen = 0;
+		rLoc = 2649;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 1569;
+	};
+	8B65006412E071AA00E0E064 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ObjCDojoAppDelegate.m */;
+		name = "ObjCDojoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 0;
+	};
+	8B65006512E071AA00E0E064 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ObjCDojoAppDelegate.h */;
+		name = "ObjCDojoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	8B65FF8512E05A8400E0E064 /* ObjCDojo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ObjCDojo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8B65FF9A12E05A8B00E0E064 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8B65FF9B12E05A8B00E0E064 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8B65FFA812E05B5400E0E064 /* LogicTests */ = {
+		activeExec = 0;
+	};
+	8B65FFB312E05BF600E0E064 /* LogicTests.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1174, 338}}";
+			sepNavSelRange = "{706, 11}";
+			sepNavVisRange = "{0, 730}";
+		};
+	};
+	8B65FFB412E05BF600E0E064 /* LogicTests.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 559}}";
+			sepNavSelRange = "{1044, 0}";
+			sepNavVisRange = "{825, 431}";
+			sepNavWindowFrame = "{{0, 4}, {800, 574}}";
+		};
+	};
+}
