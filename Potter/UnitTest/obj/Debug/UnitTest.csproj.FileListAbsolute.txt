@@ -1,0 +1,11 @@
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\bin\AutoTest.Net\UnitTest.dll
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\bin\AutoTest.Net\UnitTest.pdb
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\obj\Debug\UnitTest.pdb
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\UnitTest\bin\Debug\UnitTest.dll
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\UnitTest\bin\Debug\Potter.dll
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\UnitTest\bin\Debug\Potter.pdb
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\bin\AutoTest.Net\Potter.dll
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\bin\AutoTest.Net\Potter.pdb
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\UnitTest\bin\Debug\UnitTest.pdb

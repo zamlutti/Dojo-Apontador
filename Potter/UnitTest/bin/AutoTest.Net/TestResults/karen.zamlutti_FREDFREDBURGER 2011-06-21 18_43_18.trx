@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="01732c8c-78d4-4a42-8517-d11692c23c70" name="karen.zamlutti@FREDFREDBURGER 2011-06-21 18:43:18" runUser="APONTADOR\karen.zamlutti" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="f06aaa93-d9ca-493c-84d0-932e55e9d377">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="karen.zamlutti_FREDFREDBURGER 2011-06-21 18_43_18" />
+  </TestSettings>
+  <Times creation="2011-06-21T18:43:18.0270000-03:00" queuing="2011-06-21T18:43:18.2580000-03:00" start="2011-06-21T18:43:18.3220000-03:00" finish="2011-06-21T18:43:18.6920000-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test25PercentOffWhenFourBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="54005581-485f-dcd7-5c3a-e6d5ea457fda">
+      <Execution id="2bf0a9fc-48ef-4050-b8bb-25fc885c0542" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test25PercentOffWhenFourBooks" />
+    </UnitTest>
+    <UnitTest name="Test5PercentOffWhenTwoBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="37feb9d0-8c31-470f-9e68-550b7e7270f8">
+      <Execution id="ddf8661c-fe7c-4fcc-a419-147145de5451" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test5PercentOffWhenTwoBooks" />
+    </UnitTest>
+    <UnitTest name="Test20PercentOffWhenFourBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="d9190565-45a2-6364-1997-463109f730de">
+      <Execution id="08ee2127-d283-4853-81de-e1a0fe94bf3d" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test20PercentOffWhenFourBooks" />
+    </UnitTest>
+    <UnitTest name="Test10PercentOffWhenThreeBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="62f90bf6-efb2-799b-a4a3-18ba1eb149af">
+      <Execution id="43f328ef-9bd0-4222-8e73-3368c781d7a6" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test10PercentOffWhenThreeBooks" />
+    </UnitTest>
+    <UnitTest name="TestFullValueWithOneBook" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="16558b08-0438-1fa8-0531-495cd76ac374">
+      <Execution id="07845e2e-d26d-429f-ab8e-834e10ad4f0a" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFullValueWithOneBook" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="62f90bf6-efb2-799b-a4a3-18ba1eb149af" executionId="43f328ef-9bd0-4222-8e73-3368c781d7a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9190565-45a2-6364-1997-463109f730de" executionId="08ee2127-d283-4853-81de-e1a0fe94bf3d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54005581-485f-dcd7-5c3a-e6d5ea457fda" executionId="2bf0a9fc-48ef-4050-b8bb-25fc885c0542" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37feb9d0-8c31-470f-9e68-550b7e7270f8" executionId="ddf8661c-fe7c-4fcc-a419-147145de5451" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16558b08-0438-1fa8-0531-495cd76ac374" executionId="07845e2e-d26d-429f-ab8e-834e10ad4f0a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="43f328ef-9bd0-4222-8e73-3368c781d7a6" testId="62f90bf6-efb2-799b-a4a3-18ba1eb149af" testName="Test10PercentOffWhenThreeBooks" computerName="FREDFREDBURGER" duration="00:00:00.0230850" startTime="2011-06-21T18:43:18.3430000-03:00" endTime="2011-06-21T18:43:18.6270000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43f328ef-9bd0-4222-8e73-3368c781d7a6">
+    </UnitTestResult>
+    <UnitTestResult executionId="08ee2127-d283-4853-81de-e1a0fe94bf3d" testId="d9190565-45a2-6364-1997-463109f730de" testName="Test20PercentOffWhenFourBooks" computerName="FREDFREDBURGER" duration="00:00:00.0002374" startTime="2011-06-21T18:43:18.6370000-03:00" endTime="2011-06-21T18:43:18.6470000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="08ee2127-d283-4853-81de-e1a0fe94bf3d">
+    </UnitTestResult>
+    <UnitTestResult executionId="2bf0a9fc-48ef-4050-b8bb-25fc885c0542" testId="54005581-485f-dcd7-5c3a-e6d5ea457fda" testName="Test25PercentOffWhenFourBooks" computerName="FREDFREDBURGER" duration="00:00:00.0002267" startTime="2011-06-21T18:43:18.6510000-03:00" endTime="2011-06-21T18:43:18.6560000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bf0a9fc-48ef-4050-b8bb-25fc885c0542">
+    </UnitTestResult>
+    <UnitTestResult executionId="ddf8661c-fe7c-4fcc-a419-147145de5451" testId="37feb9d0-8c31-470f-9e68-550b7e7270f8" testName="Test5PercentOffWhenTwoBooks" computerName="FREDFREDBURGER" duration="00:00:00.0002207" startTime="2011-06-21T18:43:18.6590000-03:00" endTime="2011-06-21T18:43:18.6640000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddf8661c-fe7c-4fcc-a419-147145de5451">
+    </UnitTestResult>
+    <UnitTestResult executionId="07845e2e-d26d-429f-ab8e-834e10ad4f0a" testId="16558b08-0438-1fa8-0531-495cd76ac374" testName="TestFullValueWithOneBook" computerName="FREDFREDBURGER" duration="00:00:00.0002095" startTime="2011-06-21T18:43:18.6660000-03:00" endTime="2011-06-21T18:43:18.6720000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07845e2e-d26d-429f-ab8e-834e10ad4f0a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

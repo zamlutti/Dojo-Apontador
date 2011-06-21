@@ -1,0 +1,103 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="1" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="TestClass" priority="1" />
+      <Item value="TestMethod" priority="1" />
+      <Item value="public" priority="6" />
+      <Item value="void" priority="2" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="PotterTest`0" priority="0" />
+      <Item value="Potter" priority="4" />
+      <Item value="new" priority="4" />
+      <Item value="using" priority="0" />
+      <Item value="float" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="Potter`0" priority="2" />
+      <Item value="int" priority="3" />
+      <Item value="private" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="books" priority="6" />
+      <Item value="if" priority="1" />
+      <Item value="else" priority="2" />
+      <Item value="double" priority="0" />
+      <Item value="initialPrice" priority="2" />
+      <Item value="potter" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="Dictionary&lt;int,double&gt;" priority="0" />
+      <Item value="discounts" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="listOfBooks" priority="1" />
+      <Item value="List" priority="1" />
+      <Item value="enum" priority="0" />
+      <Item value="BookTitle`0" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="List&lt;BookTitle&gt;" priority="0" />
+      <Item value="listOfUniqueBooks" priority="1" />
+      <Item value="book" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Potter.Potter">
+      <Item value="books" priority="0" />
+      <Item value="Total`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Potter.BookTitle">
+      <Item value="Fifth" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="804" fromTop="1" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="86" fromTop="0" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="587" fromTop="17" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="851" fromTop="6" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="878" fromTop="8" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="1051" fromTop="13" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="663" fromTop="17" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="1006" fromTop="14" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="1054" fromTop="15" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="450" fromTop="12" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="247" fromTop="4" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="740" fromTop="10" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="1576" fromTop="23" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="225" fromTop="6" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="863" fromTop="12" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="1553" fromTop="23" />
+      <File id="66FF5E9B-C3D3-47C4-9864-135D009F8E18/f:PotterTest.cs" caret="1414" fromTop="20" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="1204" fromTop="16" />
+      <File id="F8CDF1B9-780D-41C1-9A15-073A3F87510B/f:Potter.cs" caret="1309" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

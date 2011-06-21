@@ -1,0 +1,7 @@
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\bin\AutoTest.Net\Potter.dll
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\bin\AutoTest.Net\Potter.pdb
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\obj\Debug\Potter.dll
+C:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\obj\Debug\Potter.pdb
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\Potter\bin\Debug\Potter.dll
+c:\users\karen.zamlutti\documents\visual studio 2010\Projects\Potter\Potter\bin\Debug\Potter.pdb

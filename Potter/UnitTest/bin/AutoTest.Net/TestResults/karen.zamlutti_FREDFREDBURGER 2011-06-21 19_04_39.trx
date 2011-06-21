@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ccd86e85-707f-4dcf-8f94-8d5f1ee7ec60" name="karen.zamlutti@FREDFREDBURGER 2011-06-21 19:04:39" runUser="APONTADOR\karen.zamlutti" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="657793d5-a716-4fd0-8196-4ceb1eeb016f">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="karen.zamlutti_FREDFREDBURGER 2011-06-21 19_04_39" />
+  </TestSettings>
+  <Times creation="2011-06-21T19:04:39.9120000-03:00" queuing="2011-06-21T19:04:40.1250000-03:00" start="2011-06-21T19:04:40.1850000-03:00" finish="2011-06-21T19:04:40.5960000-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" error="0" failed="6" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestFullValueWithOneBook" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="16558b08-0438-1fa8-0531-495cd76ac374">
+      <Execution id="3fe39406-85f6-4e5f-a7b1-77b1090cf4a9" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFullValueWithOneBook" />
+    </UnitTest>
+    <UnitTest name="Test5PercentOffWhenTwoBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="37feb9d0-8c31-470f-9e68-550b7e7270f8">
+      <Execution id="764acbda-d1ff-4135-b7b5-750a9139ced5" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test5PercentOffWhenTwoBooks" />
+    </UnitTest>
+    <UnitTest name="Test10PercentOffWhenThreeBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="62f90bf6-efb2-799b-a4a3-18ba1eb149af">
+      <Execution id="5688d59b-a742-4173-a446-0d198f851766" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test10PercentOffWhenThreeBooks" />
+    </UnitTest>
+    <UnitTest name="Test20PercentOffWhenFourBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="d9190565-45a2-6364-1997-463109f730de">
+      <Execution id="368d9368-7325-4a50-8109-f7cd7769e6ad" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test20PercentOffWhenFourBooks" />
+    </UnitTest>
+    <UnitTest name="TestFullPriceGivenTwoEqualBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="ba2109fd-f0e7-a4e0-3165-5cf05e91e4d2">
+      <Execution id="38f1942b-9774-4e56-b0c9-cb0435759aa3" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFullPriceGivenTwoEqualBooks" />
+    </UnitTest>
+    <UnitTest name="Test25PercentOffWhenFourBooks" storage="c:\users\karen.zamlutti\documents\visual studio 2010\projects\potter\unittest\bin\autotest.net\unittest.dll" id="54005581-485f-dcd7-5c3a-e6d5ea457fda">
+      <Execution id="a831c352-977a-478d-8984-46c368457c65" />
+      <TestMethod codeBase="C:/Users/karen.zamlutti/Documents/Visual Studio 2010/Projects/Potter/UnitTest/bin/AutoTest.Net/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.PotterTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test25PercentOffWhenFourBooks" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="62f90bf6-efb2-799b-a4a3-18ba1eb149af" executionId="5688d59b-a742-4173-a446-0d198f851766" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9190565-45a2-6364-1997-463109f730de" executionId="368d9368-7325-4a50-8109-f7cd7769e6ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54005581-485f-dcd7-5c3a-e6d5ea457fda" executionId="a831c352-977a-478d-8984-46c368457c65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37feb9d0-8c31-470f-9e68-550b7e7270f8" executionId="764acbda-d1ff-4135-b7b5-750a9139ced5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba2109fd-f0e7-a4e0-3165-5cf05e91e4d2" executionId="38f1942b-9774-4e56-b0c9-cb0435759aa3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16558b08-0438-1fa8-0531-495cd76ac374" executionId="3fe39406-85f6-4e5f-a7b1-77b1090cf4a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5688d59b-a742-4173-a446-0d198f851766" testId="62f90bf6-efb2-799b-a4a3-18ba1eb149af" testName="Test10PercentOffWhenThreeBooks" computerName="FREDFREDBURGER" duration="00:00:00.0509115" startTime="2011-06-21T19:04:40.1960000-03:00" endTime="2011-06-21T19:04:40.5040000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5688d59b-a742-4173-a446-0d198f851766">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.Test10PercentOffWhenThreeBooks threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 32
+   at UnitTest.PotterTest.Test10PercentOffWhenThreeBooks() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 29
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="368d9368-7325-4a50-8109-f7cd7769e6ad" testId="d9190565-45a2-6364-1997-463109f730de" testName="Test20PercentOffWhenFourBooks" computerName="FREDFREDBURGER" duration="00:00:00.0053679" startTime="2011-06-21T19:04:40.5190000-03:00" endTime="2011-06-21T19:04:40.5300000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="368d9368-7325-4a50-8109-f7cd7769e6ad">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.Test20PercentOffWhenFourBooks threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 32
+   at UnitTest.PotterTest.Test20PercentOffWhenFourBooks() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 36
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a831c352-977a-478d-8984-46c368457c65" testId="54005581-485f-dcd7-5c3a-e6d5ea457fda" testName="Test25PercentOffWhenFourBooks" computerName="FREDFREDBURGER" duration="00:00:00.0019903" startTime="2011-06-21T19:04:40.5330000-03:00" endTime="2011-06-21T19:04:40.5400000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a831c352-977a-478d-8984-46c368457c65">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.Test25PercentOffWhenFourBooks threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 32
+   at UnitTest.PotterTest.Test25PercentOffWhenFourBooks() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 43
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="764acbda-d1ff-4135-b7b5-750a9139ced5" testId="37feb9d0-8c31-470f-9e68-550b7e7270f8" testName="Test5PercentOffWhenTwoBooks" computerName="FREDFREDBURGER" duration="00:00:00.0019804" startTime="2011-06-21T19:04:40.5430000-03:00" endTime="2011-06-21T19:04:40.5500000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="764acbda-d1ff-4135-b7b5-750a9139ced5">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.Test5PercentOffWhenTwoBooks threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 32
+   at UnitTest.PotterTest.Test5PercentOffWhenTwoBooks() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 22
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="38f1942b-9774-4e56-b0c9-cb0435759aa3" testId="ba2109fd-f0e7-a4e0-3165-5cf05e91e4d2" testName="TestFullPriceGivenTwoEqualBooks" computerName="FREDFREDBURGER" duration="00:00:00.0074624" startTime="2011-06-21T19:04:40.5530000-03:00" endTime="2011-06-21T19:04:40.5650000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38f1942b-9774-4e56-b0c9-cb0435759aa3">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.TestFullPriceGivenTwoEqualBooks threw exception: 
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.</Message>
+          <StackTrace>    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 39
+   at UnitTest.PotterTest.TestFullPriceGivenTwoEqualBooks() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 53
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3fe39406-85f6-4e5f-a7b1-77b1090cf4a9" testId="16558b08-0438-1fa8-0531-495cd76ac374" testName="TestFullValueWithOneBook" computerName="FREDFREDBURGER" duration="00:00:00.0014798" startTime="2011-06-21T19:04:40.5690000-03:00" endTime="2011-06-21T19:04:40.5750000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3fe39406-85f6-4e5f-a7b1-77b1090cf4a9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method UnitTest.PotterTest.TestFullValueWithOneBook threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at Potter.Potter.Total() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\Potter\Potter.cs:line 32
+   at UnitTest.PotterTest.TestFullValueWithOneBook() in c:\Users\karen.zamlutti\Documents\Visual Studio 2010\Projects\Potter\UnitTest\PotterTest.cs:line 14
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
